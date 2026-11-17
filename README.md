@@ -1,2 +1,5 @@
-# fund-dashboard
-Fund dashboard: NAV curves, holdings, comparison
+﻿# 基金驾驶舱
+
+个人基金持仓可视化：净值曲线、持仓卡片、对照实验、回本路径。数据由本地脚本生成，每日更新。
+
+- 披露：仅个人记录，不构成投资建议。
